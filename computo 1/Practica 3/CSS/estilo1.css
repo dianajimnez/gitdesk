@@ -1,0 +1,24 @@
+<!--Ejercicio 4 menu-->
+.menu{
+				padding:0
+			}
+			
+			.menu li{
+				display:inline;
+			}
+			
+			.menu li a {
+				font-family:verdana;
+				font-size:12px;
+				text-decoration:done;
+				float:left;
+				padding:12px;
+				background-color:#ff6600;
+				color:#fff;
+			}
+			
+			.menu li a:hover {
+				background-color:#ff900;
+				margin-top:-5px;
+				font-weight:blod;
+			}
